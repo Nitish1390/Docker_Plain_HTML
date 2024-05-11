@@ -33,16 +33,20 @@ docker push public.ecr.aws/c3w1m1q2/plain_html:latest
 DEPLOYENT IMAGES
 
 
-<img width="772" alt="image" src="https://github.com/Nitish1390/Dockerizing-a-Plain-HTML-Page-with-Nginx/assets/139607834/a96a7e8d-1abd-419d-9fd7-6ea7fbb977c1">
+Build Image 
+![Screenshot 2024-05-11 163353](https://github.com/Nitish1390/Docker_Plain_HTML/assets/139607834/f618c4fd-3ba6-4e71-acb2-4ad35dd14750)
 
 
-<img width="532" alt="image" src="https://github.com/Nitish1390/Dockerizing-a-Plain-HTML-Page-with-Nginx/assets/139607834/259c02e0-e50f-407c-8ddd-a358ca65b791">
+ECR Iamge 
 
+<img width="689" alt="image" src="https://github.com/Nitish1390/Docker_Plain_HTML/assets/139607834/a2c179cc-1120-47d4-8b11-5e1e66d1479a">
 
-<img width="559" alt="image" src="https://github.com/Nitish1390/Dockerizing-a-Plain-HTML-Page-with-Nginx/assets/139607834/2f199abc-67cf-4584-8df5-aaf13fe7bc2e">
+ECR Push
 
+![Screenshot 2024-05-11 170111](https://github.com/Nitish1390/Docker_Plain_HTML/assets/139607834/9e2bd370-7ad6-45eb-9d41-b2ddb25e4254)
 
+App Image
 
-
+![image](https://github.com/Nitish1390/Docker_Plain_HTML/assets/139607834/3c15ec92-a5de-4e5c-8e5c-9bbbfa5a293b)
 
 
